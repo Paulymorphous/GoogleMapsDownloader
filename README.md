@@ -1,2 +1,2 @@
-# GoogleMapsDownloader
-This script downloads images from Google Maps.
+# Download Images from Google Maps
+
