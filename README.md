@@ -1,6 +1,8 @@
-# Download Images from Google Maps
+# Download Satellite Images from Google Maps
 
-You can use this script to download iamges from Google Maps. You will recieve the output in form of 256x256 tiles, along with the coordinate of each image.
+You can use this script to download Satellite images from Google Maps. The output will be in the form of 256x256 tiles, along with a text file that contains the coordinate of each image.
+
+![Google Map](https://secure.i.telegraph.co.uk/multimedia/archive/03004/downham_3004093b.jpg)
 
 ## Requirements
 Make sure that you have the following libraries installed:
