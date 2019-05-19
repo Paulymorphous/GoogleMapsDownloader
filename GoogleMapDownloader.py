@@ -1,3 +1,12 @@
+"""
+GOOGLE MAPS IMAGE DOWNLOADER
+
+This script will download images in the form of tiles(256x256) and save them in the output folder.
+You can type in the coordinates and zoom level of your choice and download satellite images from anywhere in the world.
+
+"""
+
+
 import urllib.request
 from PIL import Image
 from matplotlib import pyplot as plt
